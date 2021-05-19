@@ -1,1 +1,1 @@
-# Hashing-Algorithm
+# Hash-Generator 

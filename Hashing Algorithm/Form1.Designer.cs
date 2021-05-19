@@ -95,7 +95,6 @@
             this.cmbb_output.FormattingEnabled = true;
             this.cmbb_output.Items.AddRange(new object[] {
             "Text",
-            "Hex",
             "Binary"});
             this.cmbb_output.Location = new System.Drawing.Point(235, 359);
             this.cmbb_output.Name = "cmbb_output";

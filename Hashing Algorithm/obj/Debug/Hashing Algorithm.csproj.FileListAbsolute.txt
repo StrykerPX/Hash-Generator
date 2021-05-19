@@ -7,3 +7,4 @@ C:\Users\Stryker\Desktop\Hashing Algorithm\Hashing Algorithm\obj\Debug\Hashing_A
 C:\Users\Stryker\Desktop\Hashing Algorithm\Hashing Algorithm\obj\Debug\Hashing Algorithm.csproj.GenerateResource.cache
 C:\Users\Stryker\Desktop\Hashing Algorithm\Hashing Algorithm\obj\Debug\Hashing Algorithm.exe
 C:\Users\Stryker\Desktop\Hashing Algorithm\Hashing Algorithm\obj\Debug\Hashing Algorithm.pdb
+C:\Users\Stryker\Desktop\Hashing Algorithm\Hashing Algorithm\obj\Debug\Hashing Algorithm.csproj.CoreCompileInputs.cache
